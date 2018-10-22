@@ -1,5 +1,9 @@
 # fuzzy-waddle
 
+## Template to use an Arduino keypad lock, with a master button.
+
+![Arduino pin layout](https://i.imgur.com/6VCI0PY.png)
+
 ```c++
 
 #include <Keypad.h> //Includes the keypad library
