@@ -1,4 +1,4 @@
-```cc
+
 
 #include <Keypad.h> //Includes the keypad library
 #define Password_Lenght 4 // Define the password length (It's your password +1 because of the NULL value)
@@ -100,4 +100,3 @@ void loop()
     compare(); // Calls the compare() function 
   }
 }
-```
